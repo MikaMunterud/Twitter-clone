@@ -1,6 +1,6 @@
 # **Twitter-clone**
 
-This is a FrontEnd Twitter clone that was made as an assignment in the course FrontEnd 2. Click here to check it out.
+This is a FrontEnd Twitter clone that was made as an assignment in the course FrontEnd 2. [Click here](https://mikamunterud.github.io/Twitter-clone/) to check it out.
 
 ## **Assignment description**
 
